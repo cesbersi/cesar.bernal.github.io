@@ -1,0 +1,7 @@
+{
+    "name": "mireservaenlinea.com",
+    "img": "Mireservaenlinea.com.png",
+    "description": "Aplicación para gestión y administración de reservas en línea, agenda electrónica y recordatorios. Startup personal que iniciamos junto con otro emprendedor, participe en la elaboración de toda la aplicación y sus partes. Integración con mercadopago para gestión de recargas. Creación Api basada en microservicios. Creación de procesos batch para recordatorio a los usuarios, manejo de recarga y agenda electrónica de los profesionales entre otros.",
+    "technologies": "HTML5;CSS3;angular;nodejs:vuejs;microservicios;typeorm;postgresql;mercadopago;scrum",
+    "url": "https://mireservaenlinea.com"
+}

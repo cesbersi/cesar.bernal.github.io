@@ -1,0 +1,7 @@
+{
+    "name": "registrollamadas.com",
+    "img": "Registro Llamadas.png",
+    "description": "Sistema para gestión y control de llamadas, con visualizaciones en tiempo real y distribución inteligente entre los usuarios, el sistema toma una base de números y asigna de manera aleatoria y garantizando que dos usuarios no tengan el mismo número.",
+    "technologies": "HTML5;CSS3;angular;nodejs;angular;firebase",
+    "url": "https://registrollamadas.com"
+}

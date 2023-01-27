@@ -1,0 +1,7 @@
+{
+    "name": "mireservaenlinea.com",
+    "img": "mi-reserva.png",
+    "description": "Administrador de reservas, usuarios, clientes, establecimientos, aforo, pagos, recargas, control de ingreso, control de salidas y muchas más funciones de la aplicación mireservaenlinea.com.",
+    "technologies": "HTML5;CSS3;angular;nodejs:vuejs;microservicios;typeorm;postgresql;mercadopago;scrum",
+    "url": "https://admin.mireservaenlinea.com"
+}
