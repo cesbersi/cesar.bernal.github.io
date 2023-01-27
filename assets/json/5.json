@@ -1,0 +1,7 @@
+{
+    "name": "fotomisamigos",
+    "img": "Fotomisamigos.png",
+    "description": "Diseñe la arquitectura e implementación de esta aplicación cuya función principal es la administración y gestión de pedidos para fotógrafos profesionales. dicha aplicación fue creada con nodejs, manteniendo la calidad de fotos originales. esta aplicación se conecta a wordpress - woocomerce para realizar trazabilidad de estas órdenes especiales, también se conecta con los centros de impresión para la edición y posterior impresión de las fotografías.",
+    "technologies": "HTML5;CSS3;angular;nodejs;mariaDB;gateway; microservicios; integración con woocomercer",
+    "url": "https://portal.fotomisamigos.com.co"
+}

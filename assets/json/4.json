@@ -1,0 +1,7 @@
+{
+    "name": "globuscargo.us",
+    "img": "globuscargo10.png",
+    "description": "Proyecto para administrar envíos desde y hacia USA, manteniendo la trazabilidad a los usuarios. Este proyecto tiene diferentes tecnologías usadas, para el api se usó java: Sprint web, Sprint data, Sprint security, Sprint eureka, Sprint gateway, arquitectura de microservicios, base de datos PostgreSQL y para el fronted angular. esta aplicación genera documentos al vuelo usando jasperreport.",
+    "technologies": "HTML5;CSS3;angular;spring boot; spring batch; spring security; webservices; postgreSQL;spring eureka; PWA; scrum",
+    "url": "https://globuscargo.us"
+}

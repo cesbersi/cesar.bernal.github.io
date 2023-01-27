@@ -1,0 +1,7 @@
+{
+    "name": "ScriptoCCM",
+    "img": "ScriptoCCM.png",
+    "description": "Aplicación para gestión y administración de comunicaciones efectivas con los clientes de los clientes. Creación de flujos personalizados como firma electrónica de documentos con multiples-usuarios y almacenamiento seguro de documentos. Trabaje en diferentes frentes y equipos desarrollando módulos para la integración de Apis externas e internas, tambien en el envio masivos de comunicaciones integrando el sistema de cola de Azure, creando Apis con web flux para evitar bloqueos y garantizando el ciclo de vida de una comunicación. Implemente múltiples procesos batch para flujos específicos de las comunicaciones y procesos de firma electrónica. Realice algunos cambios en el fronted, específicamente en el portal de firma electrónica. Aporte ideas para mejorar la arquitectura de la solución y propuestas para optimizarla.",
+    "technologies": "HTML5;CSS3;angular;spring boot; spring batch; spring security; Azure messaging servicebus; scrum",
+    "url": "https://cloud.intelidata.cl/ccm"
+}
